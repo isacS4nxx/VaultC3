@@ -2,9 +2,11 @@
 Vault for password with esp32 C3 0.42 Oled
 
 <img width="661" height="604" alt="Screenshot from 2026-02-22 16-13-02" src="https://github.com/user-attachments/assets/d6d1aa43-bd57-4808-85ea-7e48db5e5b33" />
-![83106](https://github.com/user-attachments/assets/c896ef96-cf9d-4735-98fa-f935ec3042b7)
 
-Entendido. Aqui está a versão da documentação para o seu GitHub com um tom profissional, direto e humano, sem o uso de emojis:
+<p></p>
+
+![83106 (1)](https://github.com/user-attachments/assets/93a560a4-00f2-4417-b458-36bfba1d2b4c)
+
 
 Vault-C3: Gerenciador de Senhas Portátil
 O Vault-C3 é um dispositivo físico e independente para armazenamento de credenciais, construído com um microcontrolador ESP32-C3 e um display OLED de 0.42 polegadas.
